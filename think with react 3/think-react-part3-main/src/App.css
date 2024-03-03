@@ -1,14 +1,14 @@
 body{
-  background-color: black;
+  background-color: rgb(121, 47, 47);
   color: white;
   text-align: center;
 }
 
 h1{
-  color: rgb(0, 236, 0);
+  color: rgb(0, 43, 236);
 }
 
 span{
- font-size:30px;
+ font-size:60px;
 }
 
